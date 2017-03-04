@@ -1,1 +1,73 @@
-theme: jekyll-theme-minimal
+---
+title: Amethix
+email: contact@amethix.com
+url: https://www.amethix.com
+description: Sober analytics. Artificial Intelligence. Machine Learning.
+skills: Sober Analytics. Artificial Intelligence. Machine Learning.
+meta_author: Amethix Technologies
+lang: en-us
+podcast:
+  title: Data Science at Home
+  subtitle: the podcast about data science for small and large enterprises
+  url: podcast
+  description: podcast description
+  author: Amethix Technologies
+  copyright: '&#x2117; &amp; &#xA9; 2016'
+  keywords:
+  - data science
+  - big data
+  - predictive
+  - analytics
+  explicit: clean
+webserver_headers:
+  Access-Control-Allow-Origin: '*'
+  Server: CustomServerName
+google_verify: 
+bing_verify: 
+link-tags: true
+contact: static
+disqus: worldofpiggy
+color:
+  primary: 29313A
+  text: 0
+  primary-rgb: '67,122,171'
+  secondary: 29313A
+  secondary-dark: 29313A
+  navbar: ffffff
+timezone: Europe/Brussel
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 16
+paginate_path: /blog/page:num/
+footer:
+  copyright: Amethix Technologies
+  location: Company
+  social: Stay in touch
+  credits: Credits
+social:
+- title: twitter
+  url: http://twitter.com/amethixtech
+- title: github
+  url: http://github.com/amethix
+- title: linkedin
+  url: http://www.linkedin.com/in/amethix
+author: Amethix Technologies
+emails:
+- general: contact@amethix.com
+- support: support@amethix.com
+address:
+- line: Services
+  url: /services
+- line: About
+  url: /about
+- line: Contact Us
+  url: /contact
+credits:
+- line: All Rights Reserved &copy; 2017
+gems:
+- jekyll-paginate
+- jekyll-admin
+- jekyll-coffeescript
+- jekyll-watch
+- jekyll-assets

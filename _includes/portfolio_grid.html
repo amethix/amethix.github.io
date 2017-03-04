@@ -1,0 +1,53 @@
+<!-- Portfolio Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+
+
+        <div class="row">
+          <div class="col-lg-12 text-center">
+
+   {% for post in site.posts %}
+   {% if post.isproject %}
+                      
+  <div class="col-sm-4 services">
+    <!-- <img src="/img/portfolio/{{ post.img }}" class="small-icon" alt="{{ post.alt }}"> -->
+    
+   {% if post.category == 'consultancy' %}
+   <i class="fa fa-4x fa-bar-chart-o text-primary sr-icons" data-sr-id="4" style="; visibility: visible; -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>  
+    {% endif %}
+    
+    {% if post.category == 'training' %}
+
+   <i class="fa fa-4x fa-comments-o text-primary sr-icons" data-sr-id="4" style="; visibility: visible; -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>  
+    {% endif %}
+
+    {% if post.category == 'design' %}
+<!-- fa-cubes -->
+   <i class="fa fa-4x fa-cogs text-primary sr-icons" data-sr-id="4" style="; visibility: visible; -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>  
+    {% endif %}
+    
+    
+    
+     
+      
+    <div class="title"> {{ post.title }}</div>
+	<div class="description">{{ post.summary }}</div>
+<!--
+<div class="learn"> 
+<a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+<button type="button" class="btn btn-transparent" >
+Learn More
+</button>
+</a>
+</div> 
+-->
+<!-- learn -->
+   </div>  <!-- service -->
+   
+   {% endif %}   
+   {% endfor %}
+                
+              </div>   <!-- lg-12 -->
+            </div>     <!-- row -->
+        </div> <!-- container -->
+    </section>
