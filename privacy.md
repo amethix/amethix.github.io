@@ -41,11 +41,11 @@ For our ordinary business operations, including human resources, recruiting, and
 
 Protecting your personal information is important to us and we neither rent nor sell your personal information to anyone. We may disclose or transfer personal information that we collect or you provide as described in this Privacy and Security Statement, including:
 
-To a buyer or other successor in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal information held by Amethix about our websites’ users is among the assets transferred.
+To a buyer or other successor in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Amethix’s assets, in which personal information held by Amethix about our websites’ users is among the assets transferred.
 To our subsidiaries, affiliates, agents, contractors, service providers and other third parties we use to support our business or collaborate with and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes of providing services for or with us.
 To comply with any court order, law or legal process, including to respond to any government or regulatory request.
 To enforce or apply our Terms of Use and other agreements that govern the sale or use of our products and services.
-To protect the rights, property or security of Palantir, our employees, our users or others.
+To protect the rights, property or security of Amethix, our employees, our users or others.
 Except as set forth in this statement, we will not share your personal information with third parties without your consent.
 
 ### ONWARD TRANSFER OF YOUR INFORMATION
@@ -57,14 +57,14 @@ To facilitate our global operations, and in accordance with applicable laws, we 
 We strive to provide you with choices regarding the personal information you provide to us. Here are a couple of ways you can have control over your information:
 
 Tracking Technologies and Advertising. Depending on your browser, you may be able to change settings to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the site may then be inaccessible or not function properly.
-Promotional Offers from the Company. If you do not wish to receive promotional e-mail messages from us, you can opt-out by sending us an e-mail at privacy@palantir.com asking to be omitted from future e-mail distributions.
+Promotional Offers from the Company. If you do not wish to receive promotional e-mail messages from us, you can opt-out by sending us an e-mail at contact@amethix.com asking to be omitted from future e-mail distributions.
 DATA INTEGRITY AND PROPORTIONALITY
 
 We only collect and retain as much personal information as needed for specific, identified purposes described in this Privacy and Security Policy and we will not use it in any way that is incompatible with those purposes.
 
 ### ACCESSING AND CORRECTING YOUR INFORMATION
 
-We take reasonable steps to keep your personal information accurate and complete. You may send us an e-mail at privacy@palantir.com to request access to your personal information you have provided to us for the purpose of correcting, amending or deleting data that is inaccurate. We will do our best to respond to your request in a timely manner and grant your request as required by law.
+We take reasonable steps to keep your personal information accurate and complete. You may send us an e-mail at contact@amethix.com to request access to your personal information you have provided to us for the purpose of correcting, amending or deleting data that is inaccurate. We will do our best to respond to your request in a timely manner and grant your request as required by law.
 
 ### SECURITY
 
@@ -74,11 +74,11 @@ Although we take reasonable security measures to protect your personal informati
 
 ### CHANGES TO OUR PRIVACY AND SECURITY STATEMENT
 
-We may amend this Privacy and Security Statement from time to time. We encourage you to revisit this page periodically to read the current version of this Statement in effect. If you have any concerns or questions about this Statement or if you would like to lodge a complaint, please contact privacy@palantir.com.
+We may amend this Privacy and Security Statement from time to time. We encourage you to revisit this page periodically to read the current version of this Statement in effect. If you have any concerns or questions about this Statement or if you would like to lodge a complaint, please contact contact@amethix.com.
 
 ### CHILDREN UNDER THE AGE OF 13
 
-Our websites are not intended for children under 13 years of age. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@palantir.com and we will work to delete it. We do not knowingly collect personal information from children under 13.
+Our websites are not intended for children under 13 years of age. If you become aware that your child has provided us with personal information without your consent, please contact us at contact@amethix.com and we will work to delete it. We do not knowingly collect personal information from children under 13.
 
 ### CONTACT INFORMATION
 
