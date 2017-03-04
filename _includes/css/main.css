@@ -314,6 +314,18 @@ and (max-device-width : 568px)
     float: right;
 }
 
+/* iphone5 */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+{
+.navbar {
+    float: left;
+}
+
+
+}
+
 .navbar a:focus {
     outline: 0;
 }
