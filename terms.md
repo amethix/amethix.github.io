@@ -41,26 +41,19 @@ USER ACCESSES THIS SITE AT HIS OR HER OWN RISK. THE SITE AND ALL CONTENT ON THE 
 
 Amethix does not object to links on third-party sites to the homepage of the Site in an appropriate context. However, “framing” or “mirroring” the Site or any of its content is prohibited without the prior written consent of Amethix. The Site may provide links to other sites or resources available on the Internet. Because Amethix has no control over such sites and resources, you acknowledge and agree that Amethix is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that Amethix shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
 
-### 8. TRADEMARKS AND TRADE NAMES
-
-The company name, graphics, logos, designs, page headers, button icons, scripts, and other product and service names are the trademarks and trade names of Amethix. Amethix’s trademarks and trade names may not be used, including as part of trademarks and/or as part of domain names, in connection with any product or service in any manner that is likely to cause confusion. Amethix Technologies is in no way affiliated with, or endorsed or sponsored by, The Saul Zaentz Company d.b.a. Tolkien Enterprises or the Estate of J.R.R. Tolkien.
 
 
-### 9. ELECTRONIC COMMUNICATIONS
+### 8. ELECTRONIC COMMUNICATIONS
 
 We use reasonable security measures and take reasonable system, process and administrative precautions to protect the security and integrity of email and other electronic communications that you may send to us. Despite all these precautions, no method of transmission over the Internet is entirely secure and we cannot guarantee the confidentiality or security of the electronic communications or its contents. You transmit such information at your own risk and you should decide very carefully which information you want to send us via any electronic communication.
 
 
-### 10. SECURITY
+### 9. SECURITY
 
 Users are prohibited from violating or attempting to violate the security of the site. Amethix will investigate occurrences of possible violations and will cooperate with all applicable law enforcement authorities in prosecuting violators.
 
 
-### 11. UNITED STATES GOVERNMENT RIGHTS
 
-The Software is a “commercial item” as defined at 48 C.F.R. 2.101, consisting of “commercial computer software”, “commercial computer software documentation” and “commercial services”. If you are a U.S. governmental entity, then you acknowledge and agree that (i) use, duplication, reproduction, release, modification, disclosure, or transfer of the Software and any related documentation of any kind, including, without limitation, technical data and manuals, will be restricted in accordance with Federal Acquisition Regulation 12.212 for civilian purposes and Defense Federal Acquisition Regulation Supplement 227.7202 for military purposes, (ii) the Software were developed fully at private expense and (iii) all other use of the Software except in accordance with the license grant provided above is strictly prohibited.
-
-
-### 12. MISCELLANEOUS
+### 10. MISCELLANEOUS
 
 The Terms of Use constitutes the entire agreement between users of the Site and Amethix, and regarding the subject matter hereof. If you breach any term of the Terms of Use, Amethix may pursue any legal or equitable remedy available, including but not limited to, direct, consequential, and punitive damages and injunctive relief. Amethix’s remedies are cumulative and not exclusive. Failure of Amethix to exercise any remedy or enforce any portion of the Terms of Use at any time shall not operate as a waiver of any remedy or of the right to enforce any portion of the Agreement at any time thereafter. 
