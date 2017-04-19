@@ -26,7 +26,7 @@ google_verify:
 bing_verify: 
 link-tags: true
 contact: static
-disqus: worldofpiggy
+disqus: 
 color:
   primary: 29313A
   text: 0
